@@ -1,10 +1,10 @@
-.NavLink {
+.Snack a {
+    display: block;
     padding: .5rem 1rem;
     background-color: azure;
     border: 1px solid grey;
     text-decoration: none;
     text-transform: uppercase;
     margin: 0 .5rem;
-    color: #000;
-  }
-  
+    color: #000;  
+}
